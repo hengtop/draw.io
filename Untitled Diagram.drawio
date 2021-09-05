@@ -1,1 +1,406 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T03:40:54.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.0" etag="ht6k71t0mCz2NXteybcK" type="github"><diagram id="wqfIGVAOcoQACKi1h8yn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-05T14:03:42.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="OZxqkDTV0XGs-Kxk_3W_" version="15.0.6" type="github">
+  <diagram id="wqfIGVAOcoQACKi1h8yn" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="44ngZScvTDAltiMoz4UV-2" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-3" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-4" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-5" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-6" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-7" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-8" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-9" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-4" target="44ngZScvTDAltiMoz4UV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-76" value="当前枢纽=4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-77" value="将center与right-1的元素进行交换后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-78" value="left=0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-79" value="center=3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-80" value="right=7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-81" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-82" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-83" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-84" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-85" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-86" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-87" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-88" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-83" target="44ngZScvTDAltiMoz4UV-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-90" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="79.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-91" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-94" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="280" as="sourcePoint" />
+            <mxPoint x="619.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-95" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-96" value="当前i位置的数大于枢纽数，就停止移动 i 开始移动 j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-111" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-112" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-113" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-114" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-115" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-116" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-117" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-118" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-113" target="44ngZScvTDAltiMoz4UV-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-120" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="420" as="sourcePoint" />
+            <mxPoint x="79.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-121" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-122" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="439.5" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-123" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-124" value="当前 j 位置的数小于枢纽数，就停止移动，此时可以开始交换 i 和 j 位置上的数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-136" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-137" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-138" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-139" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-140" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-141" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-142" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-143" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-138" target="44ngZScvTDAltiMoz4UV-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-145" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="sourcePoint" />
+            <mxPoint x="169.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-146" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-147" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="600" as="sourcePoint" />
+            <mxPoint x="439.5" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-148" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-149" value="开始移动，从 i 开始，移动到位置 4 停止，开始移动 j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-150" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-151" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-152" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-153" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-154" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-155" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-156" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-157" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-152" target="44ngZScvTDAltiMoz4UV-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-159" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="790" as="sourcePoint" />
+            <mxPoint x="159.5" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-160" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-161" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="790" as="sourcePoint" />
+            <mxPoint x="339.5" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-162" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-163" value="移动 j ，移动到2停止移动，开始交换 i 和 j 的位置上的数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="860" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-164" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-165" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-166" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-167" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="570" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-168" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-169" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-170" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-171" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-166" target="44ngZScvTDAltiMoz4UV-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-173" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1010" as="sourcePoint" />
+            <mxPoint x="309.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-174" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1010" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-175" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1010" as="sourcePoint" />
+            <mxPoint x="339.5" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-176" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1010" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-177" value="开始移动i，移动到4的位置停止，此时与j会和，之后开始移动j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1060" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-178" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-179" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-180" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-181" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-182" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-183" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-184" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-185" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-180" target="44ngZScvTDAltiMoz4UV-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-187" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1219" as="sourcePoint" />
+            <mxPoint x="349.5" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-188" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-189" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260.5" y="1219" as="sourcePoint" />
+            <mxPoint x="260" y="1169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260.5" y="1199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-191" value="开始移动 j，j 移动到 2 的位置，此时 不满足条件所以 i，j 不会交换位置，同时不满足 i 小于 j的条件，就跳出循环，再将枢纽数与i位置上的数进行交换（注意这里只是刚好相等）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1260" width="515" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-193" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-194" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-195" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-196" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-197" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-198" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-199" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-200" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-201" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="44ngZScvTDAltiMoz4UV-196" target="44ngZScvTDAltiMoz4UV-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-203" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1459" as="sourcePoint" />
+            <mxPoint x="349.5" y="1409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-204" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-205" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260.5" y="1459" as="sourcePoint" />
+            <mxPoint x="260" y="1409" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260.5" y="1439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-206" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44ngZScvTDAltiMoz4UV-207" value="交换后枢纽数就放置到正确位置，之后以 i 为界限对 left 到 i-1 和 i+1 到 right 进行递归处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1500" width="535" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
